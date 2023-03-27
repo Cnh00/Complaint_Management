@@ -1,0 +1,29 @@
+{
+
+    "reclamations":[
+        {
+            "id":1,
+            "title":"I am depressed",
+            "description":"Siiir!",
+            "reclamationType":"exams"
+        },
+        {
+            "id":2,
+            "title":"I am depressed",
+            "description":"Siiir!",
+            "reclamationType":"exams"
+        },
+        {
+            "id":3,
+            "title":"I am depressed",
+            "description":"Siiir!",
+            "reclamationType":"exams"
+        },
+        {
+            "id":4,
+            "title":"I am depressed",
+            "description":"Siiir!",
+            "reclamationType":"exams"
+        }
+    ]
+}
